@@ -1,0 +1,8 @@
+build
+dist
+skyland.spec
+logs
+.idea
+TOKEN.txt
+*.pyc
+__pycache__/
